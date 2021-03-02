@@ -15,7 +15,7 @@ public class Addplace {
 	public int getAccuracy() {
 		return accuracy;
 	}
-
+//modified code
 	public void setAccuracy(int accuracy) {
 		this.accuracy = accuracy;
 	}
